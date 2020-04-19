@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" onclick="alert(&quot;goodbye&quot;);"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 900 600"
+	 style="enable-background:new 0 0 900 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#231F20;}
+	.st1{fill:#F1F2F2;}
+</style>
+<rect x="-10.1" y="-13.8" class="st0" width="917.8" height="625.2"/>
+<circle class="st1" cx="164.2" cy="120.6" r="50">
+<animateTransform attributeType="xml"
+                attributeName="transform"
+                type="rotate"
+                from="360 24.69 35.778"
+                to="0 24.69 35.778"
+                dur="2s"
+                begin="team.mouseover" 
+                end="team.mouseout"
+                repeatCount="indefinite"/>
+</circle>
+<circle class="st1" cx="491.4" cy="342.7" r="50"/>
+<circle class="st1" cx="500" cy="179.1" r="50"/>
+<circle class="st1" cx="241.3" cy="361.3" r="50"/>
+<circle class="st1" cx="769.4" cy="242.7" r="50"/>
+<circle class="st1" cx="728.2" cy="501" r="50"/>
+<circle class="st1" cx="365" cy="495.7" r="50"/>
+<circle class="st1" cx="291.3" cy="203" r="50"/>
+</svg>
